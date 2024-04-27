@@ -3,3 +3,4 @@
 ## A CLI application to greet people
 
 ## Usage
+`python main.py treeg "string"`.
